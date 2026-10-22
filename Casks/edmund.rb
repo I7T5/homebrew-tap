@@ -1,6 +1,6 @@
 cask "edmund" do
-  version "0.8.2"
-  sha256 "8e27c8bcc36f2a326cba0a481ea4b83331c0c2905c3b7c0f73c4d1878dfe4a21"
+  version "0.8.3"
+  sha256 "a2bccb8f041f643c7c670e70219950e40235eb0105da21a8320e89db5ea3d3ce"
 
   url "https://github.com/I7T5/Edmund/releases/download/v#{version}/Edmund-#{version}.dmg"
   name "Edmund"
